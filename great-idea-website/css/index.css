@@ -64,3 +64,160 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+h1 {
+	font-size: 75px;
+}
+
+span {
+	color: red;
+}
+
+
+a {
+	padding: 20px;
+	color: grey;
+}
+
+footer {
+	margin-top: 25px;
+}
+
+#container1 {
+	/*border: 5px solid green;*/
+	margin-top: 60px;
+	height: 450px;
+}
+
+#container2 {
+	/*border: 5px solid green;*/
+	margin-top: 80px;
+	
+}
+
+#top-paras {
+
+}
+
+
+.container {
+	/*border: 5px solid red;*/
+	margin: 0 auto;
+	width: 90%;
+}
+
+.container .header-box {
+	margin-top: 5px;
+}
+
+.logo {
+
+	float: right;
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+	right: 50px;
+	/*border: 5px solid;*/
+}
+/*
+.container .content1 {
+	float: left;
+}*/
+
+.container .content1 .content1-box {
+	/*display: inline-block;
+	/*width: 45%;*/
+	position: absolute;
+	left: 100px;
+	
+	/*border: 2px solid black;*/
+    float: left;
+    
+    
+}
+
+.container .content1 .btn {
+	border: 2px solid black;
+	text-align: center;
+	margin-right: 50px;
+}
+
+.container .content1 .content-box2 {
+	/*border: 2px solid;*/
+	/*display: inline-block;*/
+	/*width: 45%;*/
+	float: right;
+	position: absolute;
+	left: 500px;
+	top: 200px;
+	margin: -100px
+
+
+}
+
+.container .main-content {
+	border-top: 2px solid ;
+	border-bottom: 2px solid;
+}
+
+.container .main-content .first-para{
+	display: inline-block;
+	width: 45%;
+	padding-top: 20px;
+}
+
+.container .main-content .second-para {
+display: inline-block;
+width: 45%;
+padding-top: 20px;
+}
+
+.container .main-content .third-para {
+	display: inline-block;
+	width: 25%;
+	padding-top: 20px;
+}
+
+
+.container .main-content .fourth-para {
+	display: inline-block;
+	width: 25%;
+	padding-top: 20px;
+}
+
+.container .main-content .fifth-para {
+	display: inline-block;
+	width: 25%;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+.container .main-content .middle-img {
+	width: 100%;
+	padding-top: 20px;
+}
+
+.copyright {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
